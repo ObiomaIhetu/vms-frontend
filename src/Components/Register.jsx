@@ -82,6 +82,9 @@ const Register = ({ close }) => {
               </div>
             </div>
           </div>
+          <div className="flex items-center justify-center text-white bg-[#4285F4] w-[70%] py-[5px] rounded-full">
+            Schedule a visit
+          </div>
         </div>
       </div>
     </Popup>
